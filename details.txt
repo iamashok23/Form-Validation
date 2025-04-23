@@ -1,26 +1,5 @@
 Details: 
 
-Name: yyfytfyt
-Date of Birth: 16-06-2004
-Email Id: asgiokhgh@gmail,com
-Gender: Male
-Mobile Number: 7660949413
-Details: 
-
-Name: Ashok
-Date of Birth: 16-06-2004
-Email Id: ashokmangali@gmail.com
-Gender: Male
-Mobile Number: 7660949413
-Details: 
-
-Name: kkihjnj
-Date of Birth: 16-06-2004
-Email Id: asgokjdhngsrvjn@gmail.com
-Gender: Male
-Mobile Number: 7660949413
-Details: 
-
 Name: Ashok
 Date of Birth: 16-06-2004
 Email Id: ashokmangali@gmail.com
